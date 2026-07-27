@@ -1,4 +1,4 @@
-This is my project readme, corrected.
+This is my project readme - corrected version.
 
 ## Simple Interest Calculator
 
